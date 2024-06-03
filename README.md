@@ -1,4 +1,4 @@
-# callender-2024
+# Callender-2024
 
 # Neumorphism Calendar
 
@@ -32,7 +32,7 @@ Make sure you have a modern web browser installed (e.g., Google Chrome, Firefox,
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/neumorphism-calendar.git
+    git clone https://github.com/Sanket-HP/callender-2024.git
     ```
 
 2. **Navigate to the project directory:**
@@ -58,9 +58,7 @@ Make sure you have a modern web browser installed (e.g., Google Chrome, Firefox,
 - `styles.css`: The CSS file containing the styling for the neumorphic design.
 - `script.js`: The JavaScript file containing the logic for calendar functionality.
 
-## Screenshot
 
-![Screenshot](path-to-your-screenshot.png)
 
 ## Contributing
 
@@ -72,6 +70,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-Created by [Your Name](https://github.com/yourusername) - feel free to contact me!
+Created by https://github.com/Sanket-HP/callender-2024.git - feel free to contact me!
 
 
